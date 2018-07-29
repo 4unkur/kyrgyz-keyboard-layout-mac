@@ -1,6 +1,5 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.0.4.75 on 2016-07-08 at 16:23 (AEST)-->
 <keyboard group="0" id="3672" name="Кыргызча" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="a8" modifiers="30"/>
@@ -170,14 +169,14 @@
 			<key code="18" output="!"/>
 			<key code="19" output="&#x0022;"/>
 			<key code="20" output="№"/>
-			<key code="21" output="%"/>
-			<key code="22" output=","/>
-			<key code="23" output=":"/>
+			<key code="21" output=";"/>
+			<key code="22" output=":"/>
+			<key code="23" output="%"/>
 			<key code="24" output="+"/>
 			<key code="25" output="("/>
-			<key code="26" output="."/>
+			<key code="26" output="?"/>
 			<key code="27" output="_"/>
-			<key code="28" output=";"/>
+			<key code="28" output="*"/>
 			<key code="29" output=")"/>
 			<key code="30" output="Ъ"/>
 			<key code="31" output="Щ"/>
@@ -191,15 +190,15 @@
 			<key code="39" output="Э"/>
 			<key code="40" output="Л"/>
 			<key code="41" output="Ж"/>
-			<key code="42" output="Ё"/>
+			<key code="42" output="/"/>
 			<key code="43" output="Б"/>
-			<key code="44" output="?"/>
+			<key code="44" output=","/>
 			<key code="45" output="Т"/>
 			<key code="46" output="Ь"/>
 			<key code="47" output="Ю"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="["/>
+			<key code="50" output="Ё"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
@@ -527,15 +526,15 @@
 			<key code="39" output="э"/>
 			<key code="40" output="л"/>
 			<key code="41" output="ж"/>
-			<key code="42" output="ё"/>
+			<key code="42" output="\"/>
 			<key code="43" output="б"/>
-			<key code="44" output="/"/>
+			<key code="44" output="."/>
 			<key code="45" output="т"/>
 			<key code="46" output="ь"/>
 			<key code="47" output="ю"/>
 			<key code="48" output="&#x0009;"/>
 			<key code="49" output=" "/>
-			<key code="50" output="]"/>
+			<key code="50" output="ё"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
